@@ -1,0 +1,1 @@
+﻿public enum ScreenEdge { left, top, right, bottom }
